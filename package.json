@@ -56,13 +56,13 @@
     },
     "dependencies": {
         "ilib": "^14.17.0",
-        "ilib-loctool-xml": "^1.1.1",
+        "ilib-loctool-xml": "^1.1.2",
         "micromatch": "^4.0.5",
         "xml-js": "^1.6.11"
     },
     "devDependencies": {
         "assertextras": "^1.1.0",
-        "loctool": "^2.20.2",
+        "loctool": "^2.21.0",
         "nodeunit": "^0.11.3"
     }
 }
